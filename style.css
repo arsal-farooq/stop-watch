@@ -1,0 +1,77 @@
+.two{
+    border: 2px  solid black;
+    width: 500px;
+    text-align: center;
+    height: 300px;
+    margin: 100px  auto;
+    background-image: url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+}
+    
+h1{
+    color: black;
+    display: inline-block;
+    background-color: white;
+    width: 50px
+    
+    
+    
+}
+#sec{
+    color: white;
+    background:  darkslategray;
+    box-shadow:  0 0 10px 10px    darkslategray;
+   
+    border-radius: 20px 20px 20px 20px;
+}
+
+#min{
+    color: white;
+    background:  darkslategray;
+    box-shadow:  0 0 10px 10px    darkslategray;
+   
+    border-radius: 20px 20px 20px 20px;
+
+}
+
+#msec{
+    color: white;
+    background:  darkslategray;
+    box-shadow:  0 0 10px 10px    darkslategray;
+   
+    border-radius: 20px 20px 20px 20px;
+
+}
+
+#hour{
+    color: white;
+    background: darkslategray;
+    box-shadow:  0 0 10px 10px   darkslategray;
+   
+    border-radius: 20px 20px 20px 20px;
+
+}
+
+
+.one{
+    width: 90px;
+   font-size: 20px;
+    font-weight: bold;
+    outline: none;
+    border-radius: 20px 20px 20px 20px;
+    color: white;
+    background-color: darkslategray;
+    font-weight: bolder;
+    height: 50px;
+    border: none;
+    opacity: 0.7;
+}
+
+.one:hover{
+    color: red;
+     border-radius: 40px 40px 40px 40px;
+     
+}
+.three{
+    margin-top: 80px;
+    margin-left: 20px;
+}
